@@ -7,7 +7,7 @@ In this workshop, we will demystify the black box of Neural Networks and break t
 
 ![Workshop Image](https://raw.githubusercontent.com/BeirutAI/GDG-IntroDL/master/data/banner.jpg)
 
-Link to [Colab notebook](https://colab.research.google.com/drive/13Owz18-MCjbJNkeSXlWNUUl4E3OwweBl)
+Link to [Colab notebook](https://colab.research.google.com/drive/19kq0Ml7mOe9lVBl6KrKQMrAt8XAdvSDo)
 To edit the code, click **File** then **Save a copy in Drive…** <br />
 
 
