@@ -5,7 +5,7 @@ We owe the major success of artificial intelligence today to one primary outbrea
 
 In this workshop, we will demystify the black box of Neural Networks and break them into bits and pieces. We will define Deep Learning and understand its basic unit, Neural Networks: what are they, what’s the intuition behind them, why now, how do they learn, etc. Through building your first Neural Network model, you will get introduced to the most common deep learning framework today, Tensorflow.
 
-![Workshop Image]('./data/banner.jpg?raw=true')
+![Workshop Image]('/data/banner.jpg')
 
 Link to [Colab notebook](https://colab.research.google.com/drive/13Owz18-MCjbJNkeSXlWNUUl4E3OwweBl)
 To edit the code, click **File** then **Save a copy in Drive…** <br />
